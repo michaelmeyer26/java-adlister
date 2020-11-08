@@ -1,0 +1,10 @@
+<%--
+  Created by IntelliJ IDEA.
+  User: michaelmeyer
+  Date: 11/8/20
+  Time: 5:40 PM
+  To change this template use File | Settings | File Templates.
+--%>
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
+
